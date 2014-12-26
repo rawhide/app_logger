@@ -1,3 +1,5 @@
+require 'term/ansicolor'
+
 # = Stringを拡張して標準出力に色をつける
 class String
   include ::Term::ANSIColor
