@@ -6,7 +6,7 @@ logging with color
 
 Add this line to your application's Gemfile:
 
-    gem 'app_logger'
+    gem 'app_logger', :git => 'git://github.com/rawhide/app_logger.git'
 
 And then execute:
 
